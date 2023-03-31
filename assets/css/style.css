@@ -1,0 +1,16 @@
+elemento.style{
+    padding: 20px;
+    margin: 20px;
+}
+#container{
+    width: 300;
+    height: 300;
+    background-color: blueviolet;
+}
+*{
+    margin: 0px;
+    padding: 0 px;
+}
+body{
+
+}
